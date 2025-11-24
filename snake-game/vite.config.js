@@ -1,0 +1,10 @@
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+
+export default defineConfig({
+  plugins: [react()],
+  server: {
+    port: 3000,      // Change port to 3000 instead of 5173
+    open: true,      // Auto-open browser when starting
+  },
+})
