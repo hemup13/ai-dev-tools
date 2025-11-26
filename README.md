@@ -31,6 +31,18 @@ cd "c:\Users\heman\Documents"
 
 mkdir myDjangoProject 
 
+## First view for TODO App
+
+<img width="945" height="491" alt="image" src="https://github.com/user-attachments/assets/5715dbe3-8780-4baf-964a-34eb868eca36" />
+
+<img width="1692" height="610" alt="image" src="https://github.com/user-attachments/assets/ca54d719-97af-49e3-a0bc-8c4c4878b97f" />
+
+
+<img width="1710" height="501" alt="image" src="https://github.com/user-attachments/assets/aeceffd3-f81f-45f9-b054-43a241bf16de" />
+
+
+
+
 cd myDjangoProject
 
 # Create virtual environment
